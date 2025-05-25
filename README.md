@@ -1,0 +1,11 @@
+- 👋 Hi, I’m Nikolai Høj
+- 👀 I’m interested in everything linux and vibe coding - i recently found a renown love for IT stuff after 20 years away from anything other than normal pc use.
+- 🌱 I’m currently learning programming with AI and homelabbing
+- 💞️ I’m looking to collaborate on
+- 📫 How to reach me vohnsen@gmail.com
+- ⚡ Fun fact: My passions in electronic music/sound design - programming, homelabbing and linux.
+
+<!---
+Nikolaihoj1/Nikolaihoj1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
