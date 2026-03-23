@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikolai Høj
-- 👀 I’m interested in everything linux and vibe coding - i recently found a renown love for IT stuff after 20 years away from anything other than normal pc use.
+- 👀 I’m interested in everything linux and open source - i recently found a renown love for IT stuff after 20 years away from anything other than normal pc use.
 - 🌱 I’m currently learning programming with AI and homelabbing
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me vohnsen@gmail.com
